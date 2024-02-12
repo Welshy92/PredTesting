@@ -3,6 +3,7 @@ datapane
 kaggle
 matplotlib
 matplotlib-inline
+nbformat
 numba
 numpy
 pandas
